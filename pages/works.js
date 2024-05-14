@@ -3,7 +3,7 @@ import { WorkGridItem } from "../components/grid-item";
 import Section from '../components/section'
 import Layout from '../components/layouts/article'
 
-export const runtime = "edge";
+export const runtime = "experimental-edge";
 
 import thumbSwinHealth from '../public/images/works/swinhealth_thumb.png'
 import thumbManiwani from '../public/images/works/maniwani_thumb.png'

@@ -5,7 +5,7 @@ import { SiFlask, SiDocker, SiPython } from 'react-icons/si'
 import {Title, WorkImage, Meta} from '../../components/work'
 import P from '../../components/paragraph'
 import Layout from '../../components/layouts/article'
-export const runtime = "edge";
+export const runtime = "experimental-edge";
 
 const Work = () => {
     return (

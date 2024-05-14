@@ -10,7 +10,7 @@ import {
     IoLogoLinkedin
 } from 'react-icons/io5'
 
-export const runtime = "edge";
+export const runtime = "experimental-edge";
 
 
 const Page = () => {
