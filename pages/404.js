@@ -1,5 +1,6 @@
 import NextLink from 'next/link'
 import {Box, Heading, Text, Container, Divider, Button} from '@chakra-ui/react'
+export const runtime = "edge";
 
 const NotFound = () => {
     return (

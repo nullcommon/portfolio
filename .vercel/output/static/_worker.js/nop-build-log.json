@@ -1,0 +1,64 @@
+{
+  "timestamp": 1715663635093,
+  "outputDir": ".vercel/output/static/_worker.js",
+  "versions": {
+    "@cloudflare/next-on-pages": "1.11.3"
+  },
+  "buildFiles": {
+    "functions": {
+      "invalid": [],
+      "middleware": [],
+      "edge": [],
+      "prerendered": [],
+      "ignored": []
+    },
+    "staticAssets": [
+      "/.DS_Store",
+      "/404.html",
+      "/500.html",
+      "/_next/static/chunks/d0447323-ae9a3bd0cfd0f26c.js",
+      "/_next/static/chunks/framework-ecc4130bc7a58a64.js",
+      "/_next/static/chunks/main-48a2be0192cdda09.js",
+      "/_next/static/chunks/pages/404-f1d295d04ca5c16a.js",
+      "/_next/static/chunks/pages/_app-d5f6b5d76bed6a2a.js",
+      "/_next/static/chunks/pages/_error-77823ddac6993d35.js",
+      "/_next/static/chunks/pages/index-b1d0668c9054a71e.js",
+      "/_next/static/chunks/pages/works/maniwani-b8898781b07c71b9.js",
+      "/_next/static/chunks/pages/works/markdown-b04cf260f320e95a.js",
+      "/_next/static/chunks/pages/works/storefront-c1eed287c985218e.js",
+      "/_next/static/chunks/pages/works/swinhealth-c235014a3a71e74e.js",
+      "/_next/static/chunks/pages/works-10adeb6ef9601a2e.js",
+      "/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js",
+      "/_next/static/chunks/webpack-2d6c20b89449f43d.js",
+      "/_next/static/jG9bcQgUiHiEOSvZG1XER/_buildManifest.js",
+      "/_next/static/jG9bcQgUiHiEOSvZG1XER/_ssgManifest.js",
+      "/_next/static/media/maniwani_thumb.4611fb25.png",
+      "/_next/static/media/markdown_thumb.af701d8c.png",
+      "/_next/static/media/storefront_thumb.57a368a1.png",
+      "/_next/static/media/swinhealth_thumb.9a0eb5ad.png",
+      "/images/.DS_Store",
+      "/images/pic.png",
+      "/images/works/maniwani.png",
+      "/images/works/maniwani_thumb.png",
+      "/images/works/markdown.png",
+      "/images/works/markdown_thumb.png",
+      "/images/works/storefront.png",
+      "/images/works/storefront_thumb.png",
+      "/images/works/swinburne_logo.png",
+      "/images/works/swinhealth.png",
+      "/images/works/swinhealth_thumb.png",
+      "/index.html",
+      "/resume.pdf",
+      "/works/maniwani.html",
+      "/works/markdown.html",
+      "/works/storefront.html",
+      "/works/swinhealth.html",
+      "/works.html"
+    ],
+    "identifiers": {
+      "wasm": {},
+      "manifest": {},
+      "webpack": {}
+    }
+  }
+}

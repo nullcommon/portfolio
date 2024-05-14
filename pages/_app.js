@@ -3,6 +3,7 @@ import Layout from '../components/layouts/main'
 import theme from '../libs/theme'
 import Fonts from '../components/fonts'
 import { AnimatePresence } from 'framer-motion'
+export const runtime = "edge";
 
 const WebSite = ({router, pageProps, Component}) => {
     return (

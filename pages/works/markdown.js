@@ -3,6 +3,7 @@ import { ExternalLinkIcon } from '@chakra-ui/icons'
 import {Title, WorkImage, Meta} from '../../components/work'
 import P from '../../components/paragraph'
 import Layout from '../../components/layouts/article'
+export const runtime = "edge";
 
 const Work = () => {
     return (

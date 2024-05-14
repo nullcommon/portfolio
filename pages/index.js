@@ -10,6 +10,9 @@ import {
     IoLogoLinkedin
 } from 'react-icons/io5'
 
+export const runtime = "edge";
+
+
 const Page = () => {
     return(
         <Layout suppressHydrationWarning={true}>
